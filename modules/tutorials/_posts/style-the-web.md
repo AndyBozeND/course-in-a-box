@@ -43,6 +43,8 @@ Paste the following CSS into the editor.
       pointer-events: none;
   }
 ```
+<img src="/img/edit_style.png" alt="Screenshot of the Stylus editor"/>
+
 Be sure to select **URLs on the domain** at the bottom of the editor so that the CSS will affect all page in Back Office. Fill in a name for the style, such as **Primo staging** in the box in the top left corner, then click the **Save** button below the box.
 
 Go back to the Primo staging tab and you should see it with a pink tint. If it doesn't, click on the Stylys button, and be sure that the **Turn all styles off** box is unchecked.
