@@ -22,7 +22,7 @@ As an example, perhaps you work in the Primo Back Office, sometimes in test and 
 
 First, visit the Primo staging logon page, then click the Stylus button and click on **Write style for this URL**.
 
-![Screenshot of the Stylus create style]({{site.baseurl}}/img/staging_style.png)
+![Screenshot of the Stylus create style]({{site.baseurl}}/img/staging_styles.png)
 
 Paste the following CSS into the editor.
 
