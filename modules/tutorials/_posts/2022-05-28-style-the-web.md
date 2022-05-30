@@ -8,7 +8,7 @@ We'll use Firefox in this tutorial, but you can do the same thing in the Chrome 
 2. Search for the add-on **stylus** and install it.
 3. 3. Make sure that the Stylus extension is enabled. You should see that a Stylus button has been added to the browser toolbar.
 
-<img src="/img/stylus_button.png" alt="Screenshot of the Stylus add-on button"/>
+![Screenshot of the Stylus add-on button]({{site.baseurl}}/img/stylus_button.png)
 
 ## Using developer tools
 Firefox's Web Developer Tools lets you inspect web pages. You can see the HTML and any CSS. Press **Ctrl+Shift+I** when you are viewing a web page to inspect the page. 
