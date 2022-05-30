@@ -13,16 +13,16 @@ We'll use Firefox in this tutorial, but you can do the same thing in the Chrome 
 ## Using developer tools
 Firefox's Web Developer Tools lets you inspect web pages. You can see the HTML and any CSS. Press **Ctrl+Shift+I** when you are viewing a web page to inspect the page. 
 
-<img src="/img/dev_tools.png" alt="Screenshot of the developer tools window"/>
+![Screenshot of the developer tools window]({{site.baseurl}}/img/dev_tools.png)
 
 ## Adding custom CSS to style a web page
 As an example, perhaps you work in the Primo Back Office, sometimes in test and sometimes in production. You might want to easily distinguish between the two environments so that you don't accidentally change something in production when you meant to make the change in test. Any easy way to distinguish between the two would be to colorize test. In this example, we've colorized test to be pink.
 
-<img src="/img/bo_login.png" alt="Screenshot of the colorized logon page"/>
+![Screenshot of the colorized logon page]({{site.baseurl}}/img/bo_login.png)
 
 First, visit the Primo staging logon page, then click the Stylus button and click on **Write style for this URL**.
 
-<img src="/img/staging_styles.png" alt="Screenshot of the Stylus create style"/>
+![Screenshot of the Stylus create style]({{site.baseurl}}/img/staging_style.png)
 
 Paste the following CSS into the editor.
 
@@ -43,7 +43,7 @@ Paste the following CSS into the editor.
       pointer-events: none;
   }
 ```
-<img src="/img/edit_style.png" alt="Screenshot of the Stylus editor"/>
+![Screenshot of the Stylus editor]({{site.baseurl}}/img/edit_style.png)
 
 Be sure to select **URLs on the domain** at the bottom of the editor so that the CSS will affect all page in Back Office. Fill in a name for the style, such as **Primo staging** in the box in the top left corner, then click the **Save** button below the box.
 
